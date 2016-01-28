@@ -1,0 +1,14 @@
+# Site settings
+title: Shubham's blog
+email: shubhamkjain@outlook.com
+description: > # this means to ignore newlines until "baseurl:"
+  Some of my experiences with Music and Technology. 
+
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://shubhams.xyz" # the base hostname & protocol for your site
+twitter_username: slayerjain
+github_username:  slayerjain
+
+# Build settings
+markdown: kramdown
