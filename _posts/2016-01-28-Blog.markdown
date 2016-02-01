@@ -5,8 +5,7 @@ date:   2016-01-28 10:00:16
 categories: jekyll update
 ---
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+Since the fabrication of Intel 4004, the first ever microprocessor, CPUs have been getting smaller and more powerful. The microprocessors today are unbelievably faster and more versatile than Computers a few decades ago. By fitting more and more transistors onto every microchip, engineers have continually halved the size and doubled the power of computers. Intel has also developed the popular, [Tic-Tock model][tick-tock]
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+
+[tick-tock]: http://www.intel.com/content/www/us/en/silicon-innovations/intel-tick-tock-model-general.html     
