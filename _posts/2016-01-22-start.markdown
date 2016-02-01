@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "A fresh new Start!"
+date:   2016-01-22 08:00:00
+categories: jekyll update
+---
+Heya!
+
+My name is Shubham Jain, I'm a third year Computer Science Engineering student at BVCOE, New Delhi. I am a programmer, Music Producer and an aspiring enterprenuer. As far music production is concerned, I am a vocalist (clean, screech, growls..), lyricist, guitarist and can play any standard stringed instrument by . 
+
+I've started blogging again for good! Having been recently introduced to the Open Source world,
+I'm really enjoying contributing to some really exciting projects, but I think documenting my experience could be an even greater contribution for desperate coders like me. 
