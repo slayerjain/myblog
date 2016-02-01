@@ -4,10 +4,10 @@
     <title>Shubham&#39;s blog</title>
     <description>Some of my experiences with Music and Technology. 
 </description>
-    <link>http://shubhams.xyz/</link>
-    <atom:link href="http://shubhams.xyz/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 01 Feb 2016 12:39:26 +0530</pubDate>
-    <lastBuildDate>Mon, 01 Feb 2016 12:39:26 +0530</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 01 Feb 2016 13:13:24 +0530</pubDate>
+    <lastBuildDate>Mon, 01 Feb 2016 13:13:24 +0530</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -20,8 +20,8 @@
 I’m really enjoying contributing to some really exciting projects, but I think documenting my experience could be an even greater contribution for desperate coders like me.&lt;/p&gt;
 </description>
         <pubDate>Fri, 22 Jan 2016 13:30:00 +0530</pubDate>
-        <link>http://shubhams.xyz/jekyll/update/2016/01/22/start.html</link>
-        <guid isPermaLink="true">http://shubhams.xyz/jekyll/update/2016/01/22/start.html</guid>
+        <link>/jekyll/update/2016/01/22/start.html</link>
+        <guid isPermaLink="true">/jekyll/update/2016/01/22/start.html</guid>
         
         
         <category>jekyll</category>
@@ -48,8 +48,8 @@ I’m really enjoying contributing to some really exciting projects, but I think
 
 </description>
         <pubDate>Fri, 22 Jan 2016 06:24:16 +0530</pubDate>
-        <link>http://shubhams.xyz/jekyll/update/2016/01/22/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://shubhams.xyz/jekyll/update/2016/01/22/welcome-to-jekyll.html</guid>
+        <link>/jekyll/update/2016/01/22/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">/jekyll/update/2016/01/22/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -76,8 +76,8 @@ I’m really enjoying contributing to some really exciting projects, but I think
 
 </description>
         <pubDate>Fri, 22 Jan 2016 06:24:16 +0530</pubDate>
-        <link>http://shubhams.xyz/jekyll/update/2016/01/22/Blog.html</link>
-        <guid isPermaLink="true">http://shubhams.xyz/jekyll/update/2016/01/22/Blog.html</guid>
+        <link>/jekyll/update/2016/01/22/Blog.html</link>
+        <guid isPermaLink="true">/jekyll/update/2016/01/22/Blog.html</guid>
         
         
         <category>jekyll</category>
