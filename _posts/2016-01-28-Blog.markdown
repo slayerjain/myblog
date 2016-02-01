@@ -5,7 +5,7 @@ date:   2016-01-28 10:00:16
 categories: jekyll update
 ---
 
-Since the fabrication of Intel 4004, the first ever microprocessor, CPUs have been getting smaller and more powerful. The microprocessors today are unbelievably faster and more versatile than computers a few decades ago. By fitting more and more transistors onto every microchip, engineers have continually halved the size and doubled the power of computers. Intel has also developed the popular, [Tic-Tock model][tick-tock], A "Tick" advances manufacturing technology, focusing on shrinking the chip, and a "Tock" refers to architectural, thus features advancements.
+Since the fabrication of Intel 4004, the first ever microprocessor, CPUs have been getting smaller and more powerful. The microprocessors today are unbelievably faster and more versatile than computers a few decades ago. By fitting more and more transistors onto every microchip, engineers have continually halved the size and doubled the power of computers. Intel has also developed the popular, [Tic-Tock model][tick-tock], "Tick" advances manufacturing technology, focusing on shrinking the chip, and "Tock" refers to architectural, thus features advancements.
 
 
 [tick-tock]: http://www.intel.com/content/www/us/en/silicon-innovations/intel-tick-tock-model-general.html     
